@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\bin\Debug\net6.0\68dzFunctionAkkermana.exe
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\bin\Debug\net6.0\68dzFunctionAkkermana.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\bin\Debug\net6.0\68dzFunctionAkkermana.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\bin\Debug\net6.0\68dzFunctionAkkermana.dll
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\bin\Debug\net6.0\68dzFunctionAkkermana.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\obj\Debug\net6.0\68dzFunctionAkkermana.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\obj\Debug\net6.0\68dzFunctionAkkermana.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\obj\Debug\net6.0\68dzFunctionAkkermana.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\obj\Debug\net6.0\68dzFunctionAkkermana.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\obj\Debug\net6.0\68dzFunctionAkkermana.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\obj\Debug\net6.0\68dzFunctionAkkermana.dll
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\obj\Debug\net6.0\refint\68dzFunctionAkkermana.dll
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\obj\Debug\net6.0\68dzFunctionAkkermana.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\obj\Debug\net6.0\68dzFunctionAkkermana.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\68dzFunctionAkkermana\obj\Debug\net6.0\ref\68dzFunctionAkkermana.dll

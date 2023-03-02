@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\bin\Debug\net6.0\3.0Zadacha.exe
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\bin\Debug\net6.0\3.0Zadacha.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\bin\Debug\net6.0\3.0Zadacha.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\bin\Debug\net6.0\3.0Zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\bin\Debug\net6.0\3.0Zadacha.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\obj\Debug\net6.0\3.0Zadacha.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\obj\Debug\net6.0\3.0Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\obj\Debug\net6.0\3.0Zadacha.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\obj\Debug\net6.0\3.0Zadacha.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\obj\Debug\net6.0\3.0Zadacha.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\obj\Debug\net6.0\3.0Zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\obj\Debug\net6.0\refint\3.0Zadacha.dll
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\obj\Debug\net6.0\3.0Zadacha.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\obj\Debug\net6.0\3.0Zadacha.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\3.0Zadacha\obj\Debug\net6.0\ref\3.0Zadacha.dll

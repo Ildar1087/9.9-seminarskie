@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\bin\Debug\net6.0\64dzNaturChiclaOtNdo1.exe
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\bin\Debug\net6.0\64dzNaturChiclaOtNdo1.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\bin\Debug\net6.0\64dzNaturChiclaOtNdo1.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\bin\Debug\net6.0\64dzNaturChiclaOtNdo1.dll
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\bin\Debug\net6.0\64dzNaturChiclaOtNdo1.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\obj\Debug\net6.0\64dzNaturChiclaOtNdo1.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\obj\Debug\net6.0\64dzNaturChiclaOtNdo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\obj\Debug\net6.0\64dzNaturChiclaOtNdo1.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\obj\Debug\net6.0\64dzNaturChiclaOtNdo1.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\obj\Debug\net6.0\64dzNaturChiclaOtNdo1.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\obj\Debug\net6.0\64dzNaturChiclaOtNdo1.dll
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\obj\Debug\net6.0\refint\64dzNaturChiclaOtNdo1.dll
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\obj\Debug\net6.0\64dzNaturChiclaOtNdo1.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\obj\Debug\net6.0\64dzNaturChiclaOtNdo1.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\9.9 сем. Рекурсия\64dzNaturChiclaOtNdo1\obj\Debug\net6.0\ref\64dzNaturChiclaOtNdo1.dll
